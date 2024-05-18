@@ -13,7 +13,12 @@ public class Test2 {
     public static  void m22(){
         System.out.println(" m22 sample class");
     }
-@BeforeMethod
+    @Test
+    public static  void m3(){
+        System.out.println(" m3 sample class");
+    }
+
+    @BeforeMethod
     public static  void before(){
         System.out.println("before sample class");
     }
