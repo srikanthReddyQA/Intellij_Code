@@ -21,6 +21,10 @@ public class Test2 {
     public static  void m33(){
         System.out.println(" m22 sample class");
     }
+    @Test
+    public static  void m4(){
+        System.out.println(" m22 sample class");
+    }
     @BeforeMethod
     public static  void before(){
         System.out.println("before sample class");
