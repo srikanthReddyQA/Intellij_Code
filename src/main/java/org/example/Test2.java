@@ -9,6 +9,10 @@ public class Test2 {
     public static  void m(){
         System.out.println("sample class");
     }
+    @Test
+    public static  void Test1(){
+        System.out.println("sample class");
+    }
 
 @Test
     public static  void m2(){
