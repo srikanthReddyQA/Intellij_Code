@@ -13,7 +13,10 @@ public class Test2 {
     public static  void Test1(){
         System.out.println("sample class");
     }
-
+    @Test
+    public static  void Test2(){
+        System.out.println("sample class");
+    }
 @Test
     public static  void m2(){
         System.out.println("sample class");
