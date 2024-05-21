@@ -26,6 +26,10 @@ public class Test2 {
         System.out.println(" m3 sample class");
     }
 
+
+
+
+
     @Test
     public static  void m34(){
         System.out.println(" m34 sample class");
