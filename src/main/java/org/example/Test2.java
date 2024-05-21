@@ -4,6 +4,12 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class Test2 {
+
+    @Test
+    public static  void m(){
+        System.out.println("sample class");
+    }
+
 @Test
     public static  void m2(){
         System.out.println("sample class");
