@@ -14,6 +14,10 @@ public class Test2 {
         System.out.println(" m22 sample class");
     }
     @Test
+    public static  void m62(){
+        System.out.println(" m22 sample class");
+    }
+    @Test
     public static  void m3(){
         System.out.println(" m3 sample class");
     }
