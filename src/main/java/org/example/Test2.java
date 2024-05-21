@@ -17,6 +17,11 @@ public class Test2 {
     public static  void m3(){
         System.out.println(" m3 sample class");
     }
+
+    @Test
+    public static  void m34(){
+        System.out.println(" m34 sample class");
+    }
     @Test
     public static  void m33(){
         System.out.println(" m22 sample class");
